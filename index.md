@@ -2,11 +2,11 @@
 
 Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently running on Github whilst I decided what i'm doing with the site.
 
-You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https://keybase.io/82]
+You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https://keybase.io/001)
 
-### Markdown
+### PGP | Email
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email me ren[@]riseup.net
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
