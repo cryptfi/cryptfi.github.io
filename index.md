@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+## Home
 
-You can use the [editor on GitHub](https://github.com/cryptfi/cryptfi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently running on Github whilst I decided what i'm doing with the site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https://keybase.io/82]
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptfi/cryptfi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+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
+yeNC3G34TpcYy7D7uV94UGWw+i7PSLXbkDG/
+=voUU
+-----END PGP PUBLIC KEY BLOCK-----
+```
