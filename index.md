@@ -1,6 +1,6 @@
 ## Home
 
-Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently running on Github whilst I decided what i'm doing with the site.
+Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently running on Github whilst I decide what i'm doing with the site.
 
 You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https://keybase.io/001)
 
