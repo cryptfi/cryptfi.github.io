@@ -3,6 +3,14 @@ title: "crypt[dot]fi"
 description: "Co-owner of TheManyHatsClub"
 baseurl: ""
 url: "https://crypt.fi"
+description: "
+I'm [BuyDogs](https://twitter.com/buydogs/) on Twitter, some will know me from a Discord I co-own with [CyberSecStu](https://twitter.com/cybersecstu) called [TheManyHatsClub](https://themanyhats.club) join [here](https://themanyhats.club/invite). If you don't know me from there, you could just be visiting for one of my blog posts, the rest of which can be found [here](https://crypt.fi/blogs/). If you'd like to verify my identity you can find my keybase [here](https://keybase.io/001/). 
+
+Current blog posts:
+
+[Privacy Resources](https://crypt.fi/blog/privacy-resources/)
+[Exif Removal](https://crypt.fi/blog/exif-removal/)
+"
 twitter_username: buydogs
 collections:
   posts:
