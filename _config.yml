@@ -1,10 +1,14 @@
 theme: jekyll-theme-minimal
 title: "crypt[dot]fi"
-description: "This is my personal website, most will know me either by my Twitter (@BuyDogs) or as the co-owner of TheManyHatsClub Discord. I'm a general shitposter and my interests online are mainly Privacy focused. 
+description: "
 
-\I'll write a couple of posts, which can be found via https://crypt.fi/blog/.
+  This is my personal website, most will know me either by my Twitter (@BuyDogs) or as the co-owner of TheManyHatsClub Discord.
 
-That's about all.
+  I'm a general shitposter and my interests online are mainly Privacy focused. 
+
+  I'll write a couple of posts, which can be found via https://crypt.fi/blog/.
+
+  That's about all.
 
 Check the Homepage for more details."
 baseurl: ""
