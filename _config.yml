@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 title: "crypt[dot]fi"
-description: "<p>I'm <a href="https://twitter.com/buydogs/">BuyDogs</a> on Twitter, some will know me from a Discord I co-own with <a href="https://twitter.com/cybersecstu">CyberSecStu</a> called <a href="https://themanyhats.club">TheManyHatsClub</a> join <a href="https://themanyhats.club/invite">here</a>. If you don't know me from there, you could just be visiting for one of my blog posts, the rest of which can be found <a href="https://crypt.fi/blogs/">here</a>. If you'd like to verify my identity you can find my keybase <a href="https://keybase.io/001/">here</a>. <br>Current blog posts: <br> <a href="https://crypt.fi/blog/privacy-resources/">Privacy Resources</a> <br><a href="https://crypt.fi/blog/exif-removal/">Exif Removal</a></p>"
+description: "This is my personal website, most will know me either by my Twitter (@BuyDogs) or as the co-owner of TheManyHatsClub Discord. I'm a general shitposter and my interests online are mainly Privacy focused. 
+
+I'll write a couple of posts, which can be found via https://crypt.fi/blog/.
+
+That's about all.
+
+Check the Homepage for more details."
 baseurl: ""
 url: "https://crypt.fi"
 twitter_username: buydogs
