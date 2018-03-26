@@ -6,7 +6,7 @@ You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https:
 
 ### Posts
 
-[Privacy Resources](https://crypt.fi/blog/privacy-resources/)\
+[Privacy Resources](https://crypt.fi/blog/privacy-resources/) <br>
 [Exif Removal](https://crypt.fi/blog/exif-removal/)
 
 ### PGP | Email
