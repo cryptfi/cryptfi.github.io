@@ -7,7 +7,6 @@ This'll work on Linux, but I also like to use the Ubuntu for Windows Terminal on
 First of all you're going to need to install 'exiftool'  
   
 
-Code:  
 
 `admin@crypt-fi:$ sudo apt install exiftool`
 
@@ -45,23 +44,20 @@ Has plenty of EXIF, which you can view beforehand to check this works.
 To view the EXIF / Metadata of a file we'll simply do:  
   
 
-Code:  
 
 `admin@crypt-fi:/Example$ exiftool DSCN0010.jpg`
 
   
 To edit the EXIF / Metadata of a file we'll do:  
   
-
-Code:  
+ 
 
 `admin@crypt-fi:/Example$ exiftool -all=test DSCN0010.jpg  (This will set every writable piece of exif to display 'test')`
 
   
 or if you want to edit a specific piece of exif:  
   
-
-Code:  
+ 
 
 `admin@crypt-fi:/Example$ exiftool -Copyright=Sock DSCN0010.jpg`
 
