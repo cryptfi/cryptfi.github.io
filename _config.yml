@@ -4,4 +4,4 @@ description: "Co-owner of TheManyHatsClub"
 baseurl: ""
 url: "https://crypt.fi"
 twitter_username: buydogs
-include: ["_blog"]
+include: ["_posts"]
