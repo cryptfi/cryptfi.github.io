@@ -4,6 +4,11 @@ Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently runnin
 
 You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https://keybase.io/001)
 
+### Posts
+
+[Privacy Resources](https://crypt.fi/blog/privacy-resources/)
+[Exif Removal](https://crypt.fi/blog/exif-removal/)
+
 ### PGP | Email
 
 Email me ren[@]riseup.net
