@@ -4,8 +4,6 @@
 
 This’ll be a centralised place where I link to Privacy related Resources, I may provide a small description and Resources may range from VPN’s, to Password Managers to Bullet Proof Hosting.
 
-![Internet-Censorship-1](/content/images/2017/12/Internet-Censorship-1.jpg)
-
 * Added, [Malware](#malwarerelated) and [Website](#websiterelated) Related Section.
 * Updated information regarding Mailfence and added Disroot under [Emails](#emails).
 * Added a [Forums](#forums) Section it can be found below Hardware Wallets or in the contents.
