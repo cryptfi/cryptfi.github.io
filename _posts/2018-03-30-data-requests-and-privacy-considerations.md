@@ -2,7 +2,7 @@
 
 **Most** of the services mentioned will be **free**, however they'll be the odd recommended service that isn't, an example of this is VPNs, they're not something you want to cheap out on. This is still currently being added to hence it not being linked on my sites frontpage
 
-## Request Your Data
+## Request / View / Export Your Data
 
 This'll be a small segment, listing sites which allow you to easily request your data for free. If you have any additions to this list i'll add them along with a link to your social media saying you helped under a section at the bottom.
 
@@ -11,6 +11,7 @@ This'll be a small segment, listing sites which allow you to easily request your
  - [Tinder](https://www.help.tinder.com/hc/en-us/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data-)
  - [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
  - [Google](https://takeout.google.com/settings/takeout?pli=1)
+ - [Microsoft](https://account.microsoft.com/privacy/export)
 
 ## Email
 
