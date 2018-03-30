@@ -10,6 +10,7 @@ This'll be a small segment, listing sites which allow you to easily request your
  - [Snapchat](https://accounts.snapchat.com/accounts/downloadmydata)
  - [Tinder](https://www.help.tinder.com/hc/en-us/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data-)
  - [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
+ - [Google](https://takeout.google.com/settings/takeout?pli=1)
 
 ## Email
 
