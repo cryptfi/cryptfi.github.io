@@ -51,7 +51,7 @@ That being said, if you want a free and an even more anonymous alternative to a 
 
 ## Twitter
 
-Come join the community,  interact and socialise. Leave you full name at the door though and pick a generic handle. If you're ever pesked about giving in your phone number for 'Human Verification' go bitch at support and they're pretty understanding. 
+Come join the community,  interact and socialise. Leave your full name at the door though and pick a generic handle. If you're ever pesked about giving in your phone number for 'Human Verification' go bitch at support and they're pretty understanding. 
 
 FYI: They're going to be an ass at signup and reject your [@]cock.li email.
 
