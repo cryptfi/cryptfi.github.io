@@ -2,6 +2,9 @@
 
 Sites like [HaveIBeenPwned](https://haveibeenpwned.com/) have been highlighting just how sloppy modern day companies are with security, your data is out there for the world to see. I decided i'd spend the ***day*** seeing what I could find, I admit I knew about some of these resources before hand, but alot of them I didn't.
 
+EDIT: I felt like it was needed to add this as re-reading my post it seemed like I was glorifying or supporting these Forums etcetera, I don't hold these Forums in high respects, nor do I bother downloading any of these Databases, it's not something which is of a high interest to me. I don't care for any of it, as well quite frankly there's nothing I can use it for.
+
+I just wanted to highlight how easy obtaining these databases is, I found these resources in a day through mostly simple google searches, which is also the reason why i'm not censoring anything too much.
 
 # Free / Public Downloads
 
@@ -18,7 +21,7 @@ Through my searching I also came across what looks to be a rip-off of [**databas
 
 ## Forums
 
-There's a wide array of database sharing Forums, most of which are open to the Public, the largest seemingly being [RaidForums](https://raidforums.com/). They have an official list of leaked databases, which have been verified by the Forum owner, aswell as a section where anybody can post anything from their collection in return for an on-forum currency named 'Credits', which allow them to then buy other peoples shares.
+There's a wide array of database sharing Forums, most of which are open to the Public, the largest seemingly being [RaidForums](https://raidforums.com/). The jist seems to be there's two sub-sections from the Database section one with official presumably verified ones and the other for anyone to post in, in return for posting them people can buy them with credits (an on-forum currency) which they can get by either paying the Forum for or posting their databases and getting paid.
 
 Some runner up Forums being [DemonForums](https://demonforums.net/), [BreachForums](https://www.breachforums.com/) and [MoneyTeam](http://forums.money.team) all following the same type of on-forum currency idea.   
 
