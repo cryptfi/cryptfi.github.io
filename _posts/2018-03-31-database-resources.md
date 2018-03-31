@@ -48,6 +48,14 @@ Another place for alot of Low Level leaks that I came across was [Siph0n.net](ht
 ![
 ](https://crypt.fi/images/7c90b54930956c4a4ffb9c3.png)
 
+## Breach Compilation
+
+A Magnet link to a 41GB file appeared on reddit a few months back consisting of almost all Public Databases including Antipublic and Exploit.in. 
+
+`magnet:?xt=urn:btih:7ffbcd8cee06aba2ce6561688cf68ce2addca0a3&dn=BreachCompilation&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fglotorrents.pw%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337`
+
+![
+](https://crypt.fi/images/63a33cbc0fc57d77b1ecf2d.png)
 
 
 ## Guron18 | Mail.ru
