@@ -13,11 +13,17 @@ They claim to be:
 
 Through my searching I also came across what looks to be a rip-off of [**databases**.***today***](https://databases.today/), named [Nuclear Leaks](https://nuclearleaks.com/), following the same design and directory listing. 
 
+![
+](https://crypt.fi/images/7d3af60509bbaa9a485f65c.png)
+
 ## Forums
 
 There's a wide array of database sharing Forums, most of which are open to the Public, the largest seemingly being [RaidForums](https://raidforums.com/). They have an official list of leaked databases, which have been verified by the Forum owner, aswell as a section where anybody can post anything from their collection in return for an on-forum currency named 'Credits', which allow them to then buy other peoples shares.
 
 Some runner up Forums being [DemonForums](https://demonforums.net/), [BreachForums](https://www.breachforums.com/) and [MoneyTeam](http://forums.money.team) all following the same type of on-forum currency idea.   
+
+![
+](https://crypt.fi/images/ace68c2f5b8137a422a8ba0.png)
 
 ## CthulhuSec | Magnets
 
@@ -31,6 +37,9 @@ Both of these are courtesy of a user on [Twitter](https://twitter.com/kapichurej
 You can find CthulhuSec on twitter [here](https://twitter.com/cthlhusec)
 
 If the links provided ever go down I have archives which I can link to.
+
+![
+](https://crypt.fi/images/9fa5a33dc209d0f78ea5019.png)
 
 ## Siph0n.net
 
