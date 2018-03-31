@@ -19,6 +19,28 @@ There's a wide array of database sharing Forums, most of which are open to the P
 
 Some runner up Forums being [DemonForums](https://demonforums.net/), [BreachForums](https://www.breachforums.com/) and [MoneyTeam](http://forums.money.team) all following the same type of on-forum currency idea.   
 
+## CthulhuSec | Magnets
+
+One of the most prominent Database sites used to be Cthulhu's, whilst it's now down, the magnet links for it are still going strong.
+
+You can find a link to his torrent files here: https://anonfiles.cc/file/7e835a8c55687d9a68bc90a849417f80
+You can find an old HTML page for everything here (Use web.archive.org to retrieve everything): https://justpaste.it/13kcp
+
+Both of these are courtesy of a user on Twitter: https://twitter.com/kapichurej/status/832123605643255810
+
+You can find CthulhuSec on twitter here: https://twitter.com/cthlhusec
+
+If the links provided ever go down I have archives which I can link to.
+
+## Siph0n.net
+
+Another place for alot of Low Level leaks that I came across was [Siph0n.net](http://siph0n.net/leaks.php).
+
+![
+](https://crypt.fi/images/7c90b54930956c4a4ffb9c3.png)
+
+
+
 ## Guron18 | Mail.ru
 
 When looking around Forums I stumbled across a Russian one named antichat where a user by the name of Guron18 was linking to a cloud.mail.ru storage link full of Databases which didn't seem to be circulated on other websites.
@@ -27,9 +49,9 @@ It has a main folder with about 150 Databases in, and then another folder named 
 
 You can find the post [here](https://forum.antichat.ru/threads/442969/#post-4054501).
 ![
-](_posts/images/4b373959cf27e11831dc1bf.png)
+](https://crypt.fi/images/4b373959cf27e11831dc1bf.png)
 
-```
+`
 Dump_private_turk-internet.com_2017.03
 Dump_public_000webhost.com_2015.03
 Dump_public_1337-crew.to_2013.06
@@ -428,4 +450,4 @@ Dump_public_hack_zhk.su
 Dump_public_hack_zion-network.cc_2011.10
 Dump_public_malwarebytes.org_2014_11
 Dump_public_w0rm.ws_2016.10
-```
+`
