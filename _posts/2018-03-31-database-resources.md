@@ -23,12 +23,12 @@ Some runner up Forums being [DemonForums](https://demonforums.net/), [BreachForu
 
 One of the most prominent Database sites used to be Cthulhu's, whilst it's now down, the magnet links for it are still going strong.
 
-You can find a link to his torrent files here: https://anonfiles.cc/file/7e835a8c55687d9a68bc90a849417f80
-You can find an old HTML page for everything here (Use web.archive.org to retrieve everything): https://justpaste.it/13kcp
+You can find a link to his torrent files [here](https://anonfiles.cc/file/7e835a8c55687d9a68bc90a849417f80).
+You can find an old HTML page for everything [here](https://justpaste.it/13kcp) (Use web.archive.org to retrieve everything).
 
-Both of these are courtesy of a user on Twitter: https://twitter.com/kapichurej/status/832123605643255810
+Both of these are courtesy of a user on [Twitter](https://twitter.com/kapichurej/status/832123605643255810)
 
-You can find CthulhuSec on twitter here: https://twitter.com/cthlhusec
+You can find CthulhuSec on twitter [here](https://twitter.com/cthlhusec)
 
 If the links provided ever go down I have archives which I can link to.
 
@@ -51,7 +51,7 @@ You can find the post [here](https://forum.antichat.ru/threads/442969/#post-4054
 ![
 ](https://crypt.fi/images/4b373959cf27e11831dc1bf.png)
 
-`
+```
 Dump_private_turk-internet.com_2017.03
 Dump_public_000webhost.com_2015.03
 Dump_public_1337-crew.to_2013.06
@@ -450,4 +450,4 @@ Dump_public_hack_zhk.su
 Dump_public_hack_zion-network.cc_2011.10
 Dump_public_malwarebytes.org_2014_11
 Dump_public_w0rm.ws_2016.10
-`
+```
