@@ -25,6 +25,13 @@ Some runner up Forums being [DemonForums](https://demonforums.net/), [BreachForu
 ![
 ](https://crypt.fi/images/ace68c2f5b8137a422a8ba0.png)
 
+## Incorrectly Setup Forums
+
+There's a fair few Forums out there which are incorrectly setup and despite normally needing credits to see their hidden links you can just goto /misc.php?action=syndication on them then generate a link for the specific sub-section and view everything for free.
+
+![
+](https://crypt.fi/images/1d18c562406d83fe9a085c8.png)
+
 ## CthulhuSec | Magnets
 
 One of the most prominent Database sites used to be Cthulhu's, whilst it's now down, the magnet links for it are still going strong.
