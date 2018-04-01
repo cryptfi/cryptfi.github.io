@@ -21,7 +21,7 @@ Through my searching I also came across what looks to be a rip-off of [**databas
 
 ## Forums
 
-There's a wide array of database sharing Forums, most of which are open to the Public, the largest seemingly being [RaidForums](https://raidforums.com/). The jist seems to be there's two sub-sections from the Database section one with official presumably verified ones and the other for anyone to post in, in return for posting them people can buy them with credits (an on-forum currency) which they can get by either paying the Forum for or posting their databases and getting paid.
+There's a wide array of database sharing Forums, most of which are open to the Public, the largest seemingly being [RaidForums](https://raidforums.com/). The jist seems to be there's two sub-sections from the Database section one with official presumably verified ones and the other for anyone to post in, a user posts in there and other users buy them with an on-forum currency named credits, they can then use these credits to buy other peoples databases and visaversa. It also seems that alot of these sites offer a pay to win strategy to where you can buy credits directly from the Forum owner.
 
 Some runner up Forums being [DemonForums](https://demonforums.net/), [BreachForums](https://www.breachforums.com/) and [MoneyTeam](http://forums.money.team) all following the same type of on-forum currency idea.   
 
