@@ -2,7 +2,7 @@
 
 Sites like [HaveIBeenPwned](https://haveibeenpwned.com/) have been highlighting just how sloppy modern day companies are with security, your data is out there for the world to see. I decided i'd spend the ***day*** seeing what I could find, I admit I knew about some of these resources before hand, but alot of them I didn't.
 
-EDIT: I felt like it was needed to add this as re-reading my post it seemed like I was glorifying or supporting these Forums etcetera, I don't hold these Forums in high respects, nor do I bother downloading any of these Databases, it's not something which is of a high interest to me. I don't care for any of it, as well quite frankly there's nothing I can use it for.
+EDIT: I felt like it was needed to add this as re-reading my post it seemed like I was glorifying or supporting these Forums etcetera, I don't hold these Forums in high respects, it's not something which is of a high interest to me and this post was an hour of writing out of bordeom.
 
 I just wanted to highlight how easy obtaining these databases is, I found these resources in a day through mostly simple google searches, which is also the reason why i'm not censoring anything too much.
 
