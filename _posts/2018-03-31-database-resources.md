@@ -2,6 +2,8 @@
 
 Sites like [HaveIBeenPwned](https://haveibeenpwned.com/) have been highlighting just how sloppy modern day companies are with security, your data is out there for the world to see. I decided i'd spend the ***day*** seeing what I could find.
 
+It's worth pointing out that whilst these are all extremely easy to find, i'm not a lawyer and have no clue as to what legal troubles you might face when downloading them, so check your local laws etc. Unless you know it's explictely legal to download them in whatever part of the globe you're on, then i'd recommend you don't.
+
 EDIT: I felt like it was needed to add this as re-reading my post it seemed like I was glorifying or supporting these Forums etcetera, I don't hold these Forums in high respects, it's not something which is of a high interest to me and this post was an hour of writing out of bordeom.
 
 I just wanted to highlight how easy obtaining these databases is, I found these resources in a day through mostly simple google searches, which is also the reason why i'm not censoring anything too much.
