@@ -1,6 +1,6 @@
 ## Home
 
-Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently running on Github whilst I decide what i'm doing with the site.
+Welcome to [crypt.fi](https://crypt.fi/), at the moment this is currently running on Github whilst I decide what i'm doing with the site. If you'd like one of your posts on here contact me.
 
 You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https://keybase.io/001)
 
@@ -8,7 +8,8 @@ You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https:
 
 [Privacy Resources](https://crypt.fi/blog/privacy-resources) <br>
 [Exif Removal](https://crypt.fi/blog/exif-removal) <br>
-[Database Resources](https://crypt.fi/blog/database-resources)
+[Database Resources](https://crypt.fi/blog/database-resources) <br>
+[Awesome DarkWeb Research](https://crypt.fi/blog/awesome-darkweb-research) - A guest post by [Sh1ttyKids](https://twitter.com/Sh1ttyKids)
 
 ### PGP | Email
 
