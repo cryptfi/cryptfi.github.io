@@ -1,8 +1,7 @@
 theme: jekyll-theme-dinky
 title: "crypt[dot]fi"
 description: "
-
-Welcome to crypt.fi, a site focused on providing you Privacy, OPSEC and OSINT resources. 
+Welcome to crypt.fi, a site focused on Privacy and OSINT. 
 Here you'll find material written by me and other guest writers.
 Check the Homepage for more details."
 baseurl: ""
