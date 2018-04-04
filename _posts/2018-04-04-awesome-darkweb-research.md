@@ -5,7 +5,7 @@
 Signal: +16043598361 <br>
 Email/XMPP: cuckoo(at)cock(.)lu (Require OTR/PGP) <br>
 PGP: 6BC6 F300 51C1 8FAF 9886  6DB5 B013 6F4B 85CF 1471 <br>
-Key is here. [https://pgp.mit.edu/pks/lookup?op=get&search=0xB0136F4B85CF1471](https://pgp.mit.edu/pks/lookup?op=get&search=0xB0136F4B85CF1471)
+Key here: [https://pgp.mit.edu/pks/lookup?op=get&search=0xB0136F4B85CF1471](https://pgp.mit.edu/pks/lookup?op=get&search=0xB0136F4B85CF1471)
 ricochet:73kpi3bwypwnjacj
 
 # Awesome DarkWeb Research
