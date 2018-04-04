@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 ## What?
 
 This is an example page, if you contact me via email or twitter, with your details and what you want on this page i'll be happy to add it. <br>
