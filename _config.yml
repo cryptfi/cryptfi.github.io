@@ -2,7 +2,7 @@ theme: jekyll-theme-dinky
 title: "crypt[dot]fi"
 description: "
 Welcome to crypt.fi, a site focused on Privacy and OSINT. 
-Here you'll find material written by me and other guest writers.
+Here you'll find material written by guest writers and I.
 Check the Homepage for more details."
 baseurl: ""
 url: "https://crypt.fi"
@@ -17,4 +17,3 @@ collections:
     output: true
 permalink: "/blog/:title"
 
-pages: ./_community
