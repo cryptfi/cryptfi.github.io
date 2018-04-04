@@ -1,4 +1,4 @@
-#### This is a guest post written by [Sh1ttyKids](https://twitter.com/Sh1ttyKids), named Awesome Darkweb Research. You can find the original at https://hackmd.io/s/rJ-3VKNPG.
+#### This is a guest post written by [Sh1ttyKids](https://twitter.com/Sh1ttyKids), named Awesome Darkweb Research. You can find the original at [https://hackmd.io/s/rJ-3VKNPG](https://hackmd.io/s/rJ-3VKNPG).
 
 # Awesome DarkWeb Research
 
