@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 ## What is this ?
 
 This is the identities page used to host peoples contact information, if you'd like your identity on here feel free to contact me.
