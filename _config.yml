@@ -2,18 +2,16 @@ theme: jekyll-theme-minimal
 title: "crypt[dot]fi"
 description: "
 
-This is my personal website, most will know me by my Twitter (@BuyDogs).
-	
-I'm a general shitposter and my interests online are mainly Privacy focused. 
-	
-I'll write a couple of posts, which can be found via https://crypt.fi/blog/.
-	
-That's about all.
-
+Welcome to crypt.fi, a site ran by Dave. 
+Here you'll find Privacy and OSINT focused material written by me and other guest writers.
 Check the Homepage for more details."
 baseurl: ""
 url: "https://crypt.fi"
 twitter_username: buydogs
+layout: splash
+classes:
+  - landing
+  - dark-theme
 collections:
   posts:
     title: Posts
