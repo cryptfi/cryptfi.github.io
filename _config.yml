@@ -16,6 +16,7 @@ collections:
     title: Posts
     output: true
 permalink: "/blog/:title"
+collections:
   community:
     title: Community
     output: true
