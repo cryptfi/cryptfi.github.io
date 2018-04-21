@@ -13,7 +13,7 @@ You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https:
 
 ### PGP | Email
 
-Email me ren[@]riseup.net
+Email me admin[@]crypt.fi // ren[@]riseup.net
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
