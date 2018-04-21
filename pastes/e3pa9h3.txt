@@ -43,7 +43,6 @@
     107842  ajeeb.co.uk.txt
      55224  akiku-aroma.com.txt
      82078  algebrafunsheets.com.txt
-    198549 Apr 21 23:09 alist.txt
      28569  al-kowneyn.com.txt
       4253  allcarbs.com.txt
      20446  allcddvd.com.txt
