@@ -14,6 +14,7 @@ You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https:
 ### PGP | Email
 
 Email me admin[@]crypt.fi // ren[@]riseup.net
+XMPP me talk[@]xmpp.is // You'll have to ping me elsewhere first, OTR + XMPP. 
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
