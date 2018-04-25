@@ -4,7 +4,7 @@ Sites like [HaveIBeenPwned](https://haveibeenpwned.com/) have been highlighting 
 
 I'm not a lawyer and therefore i'm just going to recommend you don't download any of the data listed. 
 
-Whilst this **is** for educational purposes, i'm not going to bore you with a disclaimer, I **don't** host / own / mirror / seed any of the content linked.
+Whilst this **is** for educational purposes, i'm not going to bore you with a disclaimer, I **don't** host / own / mirror / seed any of the content linked. It can all be found via a couple of google searches and scrolling.
 
 Please email me if you need something removed for legal reasons: admin@crypt.fi
 
