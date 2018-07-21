@@ -8,7 +8,8 @@ You can find me on [Twitter](https://twitter.com/buydogs/) and [Keybase.](https:
 
 [Privacy Resources](https://crypt.fi/blog/privacy-resources) <br>
 [Exif Removal](https://crypt.fi/blog/exif-removal) <br>
-[Awesome DarkWeb Research](https://crypt.fi/blog/awesome-darkweb-research) - A guest post by [Sh1ttyKids](https://twitter.com/Sh1ttyKids)
+[Database Resources](https://crypt.fi/blog/database-resources) <br>
+[Awesome DarkWeb Research](https://crypt.fi/blog/awesome-darkweb-research) - A guest post by [Sh1ttyKids](https://twitter.com/Sh1ttyKids) <br>
 
 ### PGP | Email
 
