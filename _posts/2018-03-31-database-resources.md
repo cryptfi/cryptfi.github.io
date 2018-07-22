@@ -90,12 +90,12 @@ You can find the post [here](https://forum.antichat.ru/threads/442969/#post-4054
 
 Database search engines are popping up all over the place lately, they're also getting taken down as quickly as they go up, here's links to some I can find.
 
-(V) - This means verification that you own the email address you're      searching is needed to use their search engine. 
-(N) - This means it'll display what databases you're in, but won't display anything such as your passwords. 
-(Y) - This means that you can see information associated with the email, such as passwords, addresses, usernames etc.
+(V) - This means verification that you own the email address you're searching is needed to use their search engine. <br>
+(N) - This means it'll display what databases you're in, but won't display anything such as your passwords. <br>
+(Y) - This means that you can see information associated with the email, such as passwords, addresses, usernames etc. <br>
 
-Free - Means the search engine is free. 
-Paid - Means the search engine is paid.
+Free - Means the search engine is free. <br>
+Paid - Means the search engine is paid. <br>
 
  1. [HaveIBeenPwned](https://haveibeenpwned.com/) - Perhaps one of the most well known sites for checking your email or username, it doesn't usually require verification (it does for sensitive breaches such as the 'Ashley Madison' one), however does only show what databases you're in. **(N & V)** | **Free**
  2. [WeLeakInfo](https://weleakinfo.com) - This is a paid database search engine, it's the largest / most well known on the market at the moment, you can view all information associated with an email, username, phone or IP. **(Y)** | **Paid**
