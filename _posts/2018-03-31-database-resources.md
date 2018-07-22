@@ -1,3 +1,4 @@
+
 # An Introduction
 
 Sites like [HaveIBeenPwned](https://haveibeenpwned.com/) have been highlighting just how sloppy modern day companies are with security, your data is out there for the world to see. I decided i'd spend the ***day*** seeing what I could find.
@@ -83,3 +84,29 @@ You can find the post [here](https://forum.antichat.ru/threads/442969/#post-4054
 ](https://crypt.fi/images/4b373959cf27e11831dc1bf.png)
 
 
+## Search Engines
+
+![](https://crypt.fi/images/e4b5e3424a8f9c296cb1e36.png)
+
+Database search engines are popping up all over the place lately, they're also getting taken down as quickly as they go up, here's links to some I can find.
+
+(V) - This means verification that you own the email address you're      searching is needed to use their search engine. 
+(N) - This means it'll display what databases you're in, but won't display anything such as your passwords. 
+(Y) - This means that you can see information associated with the email, such as passwords, addresses, usernames etc.
+
+Free - Means the search engine is free. 
+Paid - Means the search engine is paid.
+
+ 1. [HaveIBeenPwned](https://haveibeenpwned.com/) - Perhaps one of the most well known sites for checking your email or username, it doesn't usually require verification (it does for sensitive breaches such as the 'Ashley Madison' one), however does only show what databases you're in. **(N & V)** | **Free**
+ 2. [WeLeakInfo](https://weleakinfo.com) - This is a paid database search engine, it's the largest / most well known on the market at the moment, you can view all information associated with an email, username, phone or IP. **(Y)** | **Paid**
+ 3. [GhostProject](https://ghostproject.fr) - Previously they used the TLD .me, but now use .fr, GhostProject is a free Database searching engine with over 1.4 Billion records, no verification is required and all associated information is shown. **(Y)** | **Free**
+ 4. [Ashley Cynical](https://ashley.cynic.al) - This search engine is for one Database only, the 'Ashley Madison' database, this site is unique as it allows you to search the Database without verification, most sites such as HaveIBeenPwned ask for verification as the implications of being in this database can be damaging. **(N)** | **Free**
+ 5. [Hacked Emails](http://hacked-emails.com/) - This site has changed drastically since its beginnings, it used to not need verification however now pushes for it, it'll show you what Databases and Pastebin dumps you're in and has a pretty large collection. **(VN)** | **Free**
+
+Some other sites which I don't feel like giving a description are as they're similar to the ones above are:
+
+ 1. [Citadel](https://citadel.pw/) - **(Y)** | **Paid**
+ 2. [DeHashed](https://www.dehashed.com/) - **(Y & N)** | **Paid & Free**
+ 3. [SpyCloud](https://spycloud.com/) - **(V)** | **Paid**
+ 4. [Snusbase](https://snusbase.com/) - **(Y)** | **Paid**
+ 5. [Inoitsu](https://www.inoitsu.com/) - **(N)** | **Free**
